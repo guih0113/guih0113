@@ -16,8 +16,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -29,8 +27,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 
 ## 📫 Vamos conversar?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- E-mail: seuemail@email.com
+- [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-902a811a8/)  
+- E-mail: gui.henriquess13@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios, contribuir, ou entrar em contato para trocar ideias!
 
