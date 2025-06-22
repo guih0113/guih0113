@@ -35,9 +35,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-902a811a8/)  
+- <a href="https://www.linkedin.com/in/guilherme-henrique-902a811a8/" target="_blank">Meu Linkedin</a>  
 - E-mail: gui.henriquess13@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios, contribuir, ou entrar em contato para trocar ideias!
