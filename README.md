@@ -23,6 +23,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -38,7 +41,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 
 ## 📫 Contato
 
-- <a href="https://www.linkedin.com/in/guilherme-henrique-902a811a8/" target="_blank">Meu Linkedin</a>  
+- <a href="https://www.linkedin.com/in/guilherme-henrique-902a811a8/" target="_blank">Meu Linkedin</a>  
 - E-mail: gui.henriquess13@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios, contribuir, ou entrar em contato para trocar ideias!
