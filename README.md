@@ -42,9 +42,10 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** (Fatec) com formaç�
 ---
 
 ### 📊 Estatísticas
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih0113&layout=compact&langs_count=6&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guih0113&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih0113&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guih0113&show_icons=true&theme=tokyonight" alt="Estatísticas gerais" />
 </div>
 
 ---
