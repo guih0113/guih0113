@@ -41,6 +41,12 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** (Fatec) com formaç�
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guih0113&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
 ### 📫 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-902a811a8/)
 - ✉️ [E-mail](mailto:gui.henriquess13@gmail.com)
