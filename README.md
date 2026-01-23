@@ -25,22 +25,6 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** (Fatec) com formaç�
 
 ---
 
-### 🌟 Projetos em Destaque
-
-#### 💼 [AMC Web - Plataforma Institucional](https://amc-web-one.vercel.app/)
-* **Freelance Profissional:** Desenvolvimento completo (UI/UX Design e Code) utilizando **React, TypeScript e TailwindCSS**.
-* **Destaque:** Foco total em responsividade e performance para otimização da presença digital corporativa.
-
-#### 🏋️ [API de Gerenciamento de Academias](https://github.com/guih0113)
-* **Backend de Alta Robustez:** Desenvolvido com Node.js e Prisma, aplicando autenticação via JWT.
-* **Qualidade de Software:** Implementação rigorosa de princípios **SOLID** e testes automatizados com **Vitest**.
-
-#### 🧠 [Gerador de Planos Fitness (IA)](https://github.com/guih0113)
-* **Inovação Digital:** Integração com a **Gemini-API** para geração de planos personalizados via Inteligência Artificial.
-* **Perfil Arrojado:** Demonstração de capacidade técnica para implementar tendências de mercado.
-
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guih0113&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
