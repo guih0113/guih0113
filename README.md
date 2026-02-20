@@ -1,6 +1,7 @@
 # 🚀 Guilherme Henrique | Full-Stack Developer
 
 > **Desenvolvedor Full-Stack apaixonado por transformar boas ideias em código de verdade.**
+> 
 > Foco na construção de aplicações rápidas, escaláveis e que resolvam problemas reais.
 
 ---
