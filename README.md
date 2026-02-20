@@ -1,17 +1,13 @@
 # 🚀 Guilherme Henrique | Full-Stack Developer
 
-> **Transformando lógica estruturada em soluções digitais de alta performance.**
-> Desenvolvedor focado em Node.js, TypeScript e React, com forte viés para eficiência operacional e escalabilidade.
+> **Desenvolvedor Full-Stack apaixonado por transformar boas ideias em código de verdade.**
+> Foco na construção de aplicações rápidas, escaláveis e que resolvam problemas reais.
 
 ---
 
-### 👨‍💻 Sobre mim
-Sou graduando em **Análise e Desenvolvimento de Sistemas** (Fatec) com formação técnica prévia em Desenvolvimento de Sistemas. Meu diferencial é o equilíbrio entre a **visão estruturada de planejamento** e a **agilidade na execução**, características validadas em avaliações de perfil cognitivo de alta performance.
-
 - 🛠️ **Foco Atual:** Arquitetura de APIs robustas (Fastify/Node.js) e interfaces modernas com Next.js.
 - 💡 **Mindset:** Clean Code, princípios SOLID, testes automatizados e automação inteligente.
-- 📈 **Experiência:** Desenvolvimento de projetos freelance End-to-End e integração de APIs de IA.
-
+  
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
