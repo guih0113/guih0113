@@ -22,9 +22,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guih0113&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  [![card](https://github-readme-stats.vercel.app/api?username=guih0113&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=guih0113&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
