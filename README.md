@@ -30,7 +30,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC e gosto de construir apli
 - **Widget de Upload e Compressão de Imagens**: upload com progresso, cancelamento e armazenamento no Cloudflare R2. React, TypeScript, Zustand e Radix UI.
 - **Pizzashop**: painel administrativo para pizzaria, com pedidos e relatórios de faturamento. React, TanStack Query e MSW.
 - **Equipe3 Ar Condicionado**: landing page profissional entregue em produção para cliente real.
-- **Detecção de Fraudes Financeiras:** modelo de Machine Learning para identificação de fraudes em cartões de crédito com dados desbalanceados e interpretabilidade de decisões (XAI). Python, Scikit-Learn, Imbalanced-Learn e SHAP.
+- **Detecção de Fraudes Financeiras:** modelo de Machine Learning para identificação de fraudes em cartões de crédito com dados desbalanceados e interpretabilidade de decisões (XAI).
 
 ## 📫 Contato
 
